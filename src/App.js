@@ -21,7 +21,7 @@ function App() {
         
         {/*  */}
         <Router>
-          {/* We have to provide the Navbar inside router */}
+          {/* We have to provide the Navbar inside router so that router do not it can */}
           <Navbar /> 
 
         <Routes>
